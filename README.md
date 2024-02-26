@@ -1,4 +1,4 @@
-uilding an Online Bookstore Management System in MERN (MongoDB, Express.js, React.js, Node.js) in just five days is quite ambitious, especially if you want to incorporate all aspects of Data Structures and Algorithms (DSA).
+Building an Online Bookstore Management System in MERN (MongoDB, Express.js, React.js, Node.js) in just five days is quite ambitious, especially if you want to incorporate all aspects of Data Structures and Algorithms (DSA).
 
 Project Setup and Backend Development
 
